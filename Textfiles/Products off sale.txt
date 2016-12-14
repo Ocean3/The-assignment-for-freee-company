@@ -1,0 +1,39 @@
+@Shoes
+Oka
+images\\x._V293494175_.jpg
+Rubbish Shoes
+It's dust. Don't buy.
+101
+1
+
+@Hat
+Oka
+images\\hat-004.jpg
+CheapHat
+This is the cheap hat than any other rattle.
+50
+67
+
+@Coat
+Oka
+images\\220px-US_Navy_p_coat_wiki.jpg
+Nice Coat
+This is the nicest coat than any other rubbish.
+1
+5000
+
+@Gloves
+Oka
+images\\muji-gloves.jpg
+Nice Gloves
+This is the nicest Gloves than any other rubbish.
+11
+5000
+
+@Clothes
+Oka
+images\\Clothes-Free-PNG-Image.png
+Nice Clothes
+This is the nicest shirt than any other rubbish.
+1
+5000
